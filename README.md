@@ -1,7 +1,7 @@
 ## example-app
 
 A sample app that just connects to a `redis` instance and serves the result of
-redis' `INFO` command on any endpoint. Trivial change.
+redis' `INFO` command on any endpoint. Trivial change. Make another trivial change.
 
 ### usage
 
