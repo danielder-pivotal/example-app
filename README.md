@@ -12,7 +12,6 @@ To run the app in Kubernetes, submit the Kubernetes objects described in
 
 The following objects will be submited:
 
-
 ```
   NAMESPACE     NAME      KIND      
   (default)     app       Deployment
