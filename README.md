@@ -40,8 +40,6 @@ Server
   redis_build_id:19d4277f1e8a2fed
 ```
 
-
-
 #### local
 
 1. build the app
